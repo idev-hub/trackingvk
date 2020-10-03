@@ -1,0 +1,9 @@
+{
+  "name": "trackingvk",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/idev-hub/trackingvk.git",
+  "author": "idev-hub",
+  "license": "MIT",
+  "private": true
+}
